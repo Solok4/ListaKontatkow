@@ -1,0 +1,26 @@
+﻿<xs:schema id="XMLSchema1"
+    targetNamespace="http://tempuri.org/XMLSchema1.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XMLSchema1.xsd"
+    xmlns:mstns="http://tempuri.org/XMLSchema1.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  
+<xs:element name="Kontakty">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="Kontakt">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name ="Imie"></xs:element>
+            <xs:element name ="Nazwisko"></xs:element>
+            <xs:element name ="Telefon"></xs:element>
+            <xs:element name ="Email"></xs:element>
+            <xs:element name ="Wiek"></xs:element>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+</xs:schema>

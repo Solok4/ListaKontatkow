@@ -1,0 +1,43 @@
+C:\Users\Rodzice\Documents\Visual Studio 2017\Projects\Tekom2okna\Tekom2okna\obj\Debug\ListaKontaktow.csprojResolveAssemblyReference.cache
+C:\Users\Rodzice\Documents\Visual Studio 2017\Projects\Tekom2okna\Tekom2okna\obj\Debug\ListaKontaktow.csproj.GenerateResource.Cache
+C:\Users\Rodzice\Documents\Visual Studio 2017\Projects\Tekom2okna\Tekom2okna\obj\Debug\Tekom2okna.exe
+C:\Users\Rodzice\Documents\Visual Studio 2017\Projects\Tekom2okna\Tekom2okna\obj\Debug\Tekom2okna.pdb
+C:\Users\Rodzice\Documents\Visual Studio 2017\Projects\Tekom2okna\Tekom2okna\bin\Debug\Tekom2okna.exe.config
+C:\Users\Rodzice\Documents\Visual Studio 2017\Projects\Tekom2okna\Tekom2okna\bin\Debug\Tekom2okna.exe.manifest
+C:\Users\Rodzice\Documents\Visual Studio 2017\Projects\Tekom2okna\Tekom2okna\bin\Debug\Tekom2okna.application
+C:\Users\Rodzice\Documents\Visual Studio 2017\Projects\Tekom2okna\Tekom2okna\bin\Debug\Tekom2okna.exe
+C:\Users\Rodzice\Documents\Visual Studio 2017\Projects\Tekom2okna\Tekom2okna\bin\Debug\Tekom2okna.pdb
+C:\Users\Rodzice\Documents\Visual Studio 2017\Projects\Tekom2okna\Tekom2okna\bin\Debug\Kontrolka.dll
+C:\Users\Rodzice\Documents\Visual Studio 2017\Projects\Tekom2okna\Tekom2okna\bin\Debug\Kontrolka.pdb
+C:\Users\Rodzice\Documents\Visual Studio 2017\Projects\Tekom2okna\Tekom2okna\obj\Debug\Tekom2okna.exe.manifest
+C:\Users\Rodzice\Documents\Visual Studio 2017\Projects\Tekom2okna\Tekom2okna\obj\Debug\Tekom2okna.application
+C:\Users\Rodzice\Documents\Visual Studio 2017\Projects\Tekom2okna\Tekom2okna\obj\Debug\Aplikacja.Form1.resources
+C:\Users\Rodzice\Documents\Visual Studio 2017\Projects\Tekom2okna\Tekom2okna\obj\Debug\Aplikacja.EditForm.resources
+C:\Users\Rodzice\Documents\Visual Studio 2017\Projects\Tekom2okna\Tekom2okna\obj\Debug\Aplikacja.Wizytowka.resources
+C:\Users\Rodzice\Documents\Visual Studio 2017\Projects\Tekom2okna\Tekom2okna\obj\Debug\Aplikacja.Procesy.resources
+C:\Users\Rodzice\Documents\Visual Studio 2017\Projects\Tekom2okna\Tekom2okna\obj\Debug\Aplikacja.Properties.Resources.resources
+C:\Users\Rodzice\Documents\Visual Studio 2017\Projects\Tekom2okna\Tekom2okna\obj\Debug\Aplikacja.Szczegoly.resources
+C:\Users\Rodzice\Documents\Visual Studio 2017\Projects\Tekom2okna\Tekom2okna\obj\Debug\Aplikacja.NowyProces.resources
+C:\Users\Rodzice\Documents\Visual Studio 2017\Projects\Tekom2okna\Tekom2okna\obj\Debug\ListaKontaktow.csproj.CoreCompileInputs.cache
+C:\Users\Olo44\source\repos\Tekom2okna\Tekom2okna\bin\Debug\Tekom2okna.exe.config
+C:\Users\Olo44\source\repos\Tekom2okna\Tekom2okna\bin\Debug\Tekom2okna.exe.manifest
+C:\Users\Olo44\source\repos\Tekom2okna\Tekom2okna\bin\Debug\Tekom2okna.application
+C:\Users\Olo44\source\repos\Tekom2okna\Tekom2okna\bin\Debug\Tekom2okna.exe
+C:\Users\Olo44\source\repos\Tekom2okna\Tekom2okna\bin\Debug\Tekom2okna.pdb
+C:\Users\Olo44\source\repos\Tekom2okna\Tekom2okna\bin\Debug\Kontrolka.dll
+C:\Users\Olo44\source\repos\Tekom2okna\Tekom2okna\bin\Debug\Kontrolka.pdb
+C:\Users\Olo44\source\repos\Tekom2okna\Tekom2okna\obj\Debug\ListaKontaktow.csprojAssemblyReference.cache
+C:\Users\Olo44\source\repos\Tekom2okna\Tekom2okna\obj\Debug\Aplikacja.Form1.resources
+C:\Users\Olo44\source\repos\Tekom2okna\Tekom2okna\obj\Debug\Aplikacja.EditForm.resources
+C:\Users\Olo44\source\repos\Tekom2okna\Tekom2okna\obj\Debug\Aplikacja.NowyProces.resources
+C:\Users\Olo44\source\repos\Tekom2okna\Tekom2okna\obj\Debug\Aplikacja.Procesy.resources
+C:\Users\Olo44\source\repos\Tekom2okna\Tekom2okna\obj\Debug\Aplikacja.Properties.Resources.resources
+C:\Users\Olo44\source\repos\Tekom2okna\Tekom2okna\obj\Debug\Aplikacja.Szczegoly.resources
+C:\Users\Olo44\source\repos\Tekom2okna\Tekom2okna\obj\Debug\Aplikacja.Wizytowka.resources
+C:\Users\Olo44\source\repos\Tekom2okna\Tekom2okna\obj\Debug\ListaKontaktow.csproj.GenerateResource.cache
+C:\Users\Olo44\source\repos\Tekom2okna\Tekom2okna\obj\Debug\ListaKontaktow.csproj.CoreCompileInputs.cache
+C:\Users\Olo44\source\repos\Tekom2okna\Tekom2okna\obj\Debug\Tekom2okna.exe.manifest
+C:\Users\Olo44\source\repos\Tekom2okna\Tekom2okna\obj\Debug\Tekom2okna.application
+C:\Users\Olo44\source\repos\Tekom2okna\Tekom2okna\obj\Debug\ListaKontaktow.csproj.CopyComplete
+C:\Users\Olo44\source\repos\Tekom2okna\Tekom2okna\obj\Debug\Tekom2okna.exe
+C:\Users\Olo44\source\repos\Tekom2okna\Tekom2okna\obj\Debug\Tekom2okna.pdb
